@@ -1,0 +1,11 @@
+# Minimum versions for the Week 5 analysis.
+# To pin the exact versions from your own environment instead, run:
+#     pip freeze > requirements.txt
+pandas>=2.2
+numpy>=1.26
+matplotlib>=3.8
+seaborn>=0.13
+plotly>=5.20
+jupyter
+ipykernel
+nbformat>=5.9
